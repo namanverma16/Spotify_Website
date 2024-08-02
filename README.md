@@ -122,4 +122,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or questions, please contact me at:
-- **Email:** [divyanshsaini.mzn@gmail.com](mailto:divyanshsaini.mzn@gmail.com)
+- **Email:** vnaman896@gmail.com
