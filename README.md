@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/projectsby-saini/spotify-app.git
+    git clone https://github.com/namanverma16/spotify-website.git
     cd spotify-app
     ```
 
